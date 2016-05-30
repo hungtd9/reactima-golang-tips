@@ -6,7 +6,7 @@ Golang is a great language for building modern web-applications based on micro-s
 https://golang.org/
 https://gobyexample.com/
 
-If it's easy to start with Golang how to distinguish average developer from great one? What kind of knowledge make difference if you are building services for the top internet companies like Facebook, Twitter, Google?
+If it's so easy to start how is it possible for great companies to distinguish average developer from great one? What kind of knowledge make difference if you are building services for the top internet companies like Facebook, Twitter, Google?
 
 Here's the top answers:
    - Networking (Protocol headers, Web-Socket) 
