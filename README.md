@@ -10,7 +10,7 @@ If it's so easy to start how is it possible for great companies to distinguish a
 
 You should see what surrounds Golang eco-system. 
 
-Here's some areas where most developers luck of basic :
+Here's some areas where most Senior Developers miss basics despite many years of experience:
    - Networking (Protocol headers, Web-Socket) 
    - Logic and Big O notation
    - Regexp
@@ -81,3 +81,5 @@ Golang's main power is in its community. Here's the list of great people you mig
 * Brian Ketelsen https://twitter.com/bketelsen
 * JBD https://twitter.com/rakyll
 * Francesc Campoy https://twitter.com/francesc
+
+Your feedback is greatly appreciated! Send me email on 1@ilya1.com
