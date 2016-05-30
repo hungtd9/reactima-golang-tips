@@ -11,12 +11,11 @@ If it's so easy to start how is it possible for great companies to distinguish a
 You should see what surrounds Golang eco-system. 
 
 Here's some areas where most Senior Developers miss basics despite many years of experience:
-   - Networking (Protocol headers, Web-Socket) 
-   - Logic and Big O notation
+   - Networking (Protocols, API related HTTP Headers, Web-Socket) 
+   - Bitwise Operators, http://www.tutorialspoint.com/go/go_bitwise_operators.htm
    - Regexp
    - Memory Allocation, https://golang.org/doc/effective_go.html
-   - Bitwise Operators, http://www.tutorialspoint.com/go/go_bitwise_operators.htm
-   - Algorithmic thinking and experience
+   - Algorithmic thinking (Logic, Big O notation()
    - Linux (File IO, commands, performace, ...)
 
 #### Networking 
@@ -32,13 +31,16 @@ http://jwt.io
 #### Regexp
 Easy! Learn how to visualize it
 ![Regex](regex.png)
-https://goo.gl/
+
 ^\({0,1}((0|\+61)(2|4|3|7|8)){0,1}\){0,1}(\ |-){0,1}[0-9]{2}(\ |-){0,1}[0-9]{2}(\ |-){0,1}[0-9]{1}(\ |-){0,1}[0-9]{3}$
 
-#### Algorithmic thinking and experience
-* Algorithms and Data Structures for golang, https://github.com/0xAX/go-algorithms
-* Algorithms and Data Structures in Python , https://www.youtube.com/playlist?list=PLsJ_X8XMWFjOfvMXk7HsZYr8vUwYVxTQM
+https://goo.gl/
+http://regexr.com/
+https://regex101.com/
 
+#### Algorithmic thinking and experience
+* Algorithms and Data Structures for Golang, https://github.com/0xAX/go-algorithms
+* Algorithms and Data Structures in Python , https://www.youtube.com/playlist?list=PLsJ_X8XMWFjOfvMXk7HsZYr8vUwYVxTQM
 
 #### Linux 
 Look at this! It was built by large community over the past 20 years and has a lot of great, well-optimized libraries. There is no need to reinvent everything in Golang.  
