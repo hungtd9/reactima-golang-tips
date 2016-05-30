@@ -34,7 +34,7 @@ http://jwt.io
 
 #### Regexp
 Easy! Learn how to visualize it
-![Regex](linux.jpg)
+![Regex](regex.png)
 https://goo.gl/
 ^\({0,1}((0|\+61)(2|4|3|7|8)){0,1}\){0,1}(\ |-){0,1}[0-9]{2}(\ |-){0,1}[0-9]{2}(\ |-){0,1}[0-9]{1}(\ |-){0,1}[0-9]{3}$
 
