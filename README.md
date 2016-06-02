@@ -10,7 +10,7 @@ If it's so easy to start how is it possible for great companies to distinguish a
 
 You should see what surrounds Golang eco-system. 
 
-Here's some areas where most Senior Developers miss basics despite many years of experience:
+Here's some areas where most Senior Developers lack of basics despite many years of experience:
    - Networking (Protocols, API related HTTP Headers, Web-Socket) 
    - Bitwise Operators, http://www.tutorialspoint.com/go/go_bitwise_operators.htm
    - Regexp
@@ -39,6 +39,7 @@ http://regexr.com/
 https://regex101.com/
 
 #### Algorithmic thinking and experience
+* Algorithm Visualizer, http://jasonpark.me/AlgorithmVisualizer/#path=graph_search/dfs/tree
 * Algorithms and Data Structures for Golang, https://github.com/0xAX/go-algorithms
 * Algorithms and Data Structures in Python , https://www.youtube.com/playlist?list=PLsJ_X8XMWFjOfvMXk7HsZYr8vUwYVxTQM
 
